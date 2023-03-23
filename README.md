@@ -1,4 +1,4 @@
-##Привет, меня зовут Садовой Григорий
+###Привет, меня зовут Садовой Григорий
 
 * Studing Software Engineering in [ITMO University](https://en.itmo.ru/)
 
