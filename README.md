@@ -2,7 +2,7 @@
 
 * Studing Software Engineering in [ITMO University](https://en.itmo.ru/)
 
-* Студент факульта ПИиКТ
+* Студент факультета ПИиКТ
 
 * Все лабы и отчеты доступны в репозитории [Umchik1222/MyITMOProjects](https://github.com/Umchik1222/MyITMOProjects)
 
