@@ -1,16 +1,20 @@
-### Hi there 👋
+##Привет, меня зовут Садовой Григорий
 
-<!--
-**Umchik1222/Umchik1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Studing Software Engineering in [ITMO University](https://en.itmo.ru/)
 
-Here are some ideas to get you started:
+* Студент факульта ПИиКТ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Все лабы и отчеты доступны в репозитории [Umchik1222/MyITMOProjects](https://github.com/Umchik1222/MyITMOProjects)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Contacts
+<p align="left">
+  <a href="https://t.me/Gsad_ph" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+  <a href="https://vk.com/kobievportfievleze" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
+   <a href="mailto:gsad1030@gmail.com" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
+</p>
+<br />  
+<br />  
