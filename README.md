@@ -7,8 +7,8 @@
 * Все лабы и отчеты доступны в репозитории [Umchik1222/MyITMOProjects](https://github.com/Umchik1222/MyITMOProjects)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)
 
 ## Contacts
 <p align="left">
