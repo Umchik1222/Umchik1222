@@ -9,7 +9,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222&layout=compact&theme=gotham&border_radius=30&hide=CMake%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222&layout=compact&theme=tokyonight&border_radius=30&hide=CMake%20notebook)
 
 
 ## Contacts
