@@ -5,10 +5,10 @@
 * Студент факультета ПИиКТ
 
 * Все лабы и отчеты доступны в репозитории [Umchik1222/MyITMOProjects](https://github.com/Umchik1222/MyITMOProjects)
+  
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222\&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222&theme=tokyonight&layout=donut)
 
 
 
