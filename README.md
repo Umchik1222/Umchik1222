@@ -8,8 +8,8 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222\&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umchik1222&layout=compact&theme=tokyonight&border_radius=30&%20notebook)
 
 
 ## Contacts
